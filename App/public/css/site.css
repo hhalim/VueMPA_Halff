@@ -1,0 +1,39 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    font-family: calibri, carlito, Arial, "liberation sans", sans-serif, sans;
+    color: black;
+    margin-bottom: 3rem;
+    background: linear-gradient(to bottom right, #00376b, #0189ad);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    min-height: 100%;
+    flex-direction: column;
+}
+
+.nav-logo {
+    height: 2rem;
+    width: 2rem;
+}
+.navbar {
+    font-size: 1.2rem;
+    background-color: #25313e !important;
+    box-shadow: 0 0.15rem 2px -2px #333;
+}
+.nav-link {
+    color: white !important;
+}
+
+.toasted-container.top-right {
+    top: 0;
+}
+
