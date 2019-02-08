@@ -1,7 +1,7 @@
 ﻿<template>
   <nav class="navbar navbar-expand-md navbar-dark bg-dark">
     <a class="navbar-brand" href="http://intranet.halff.ad/">
-      <img src="images/halff.png" class="nav-logo d-inline-block align-top" alt="" />
+      <img src="/images/halff.png" class="nav-logo d-inline-block align-top" alt="" />
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent">
       <span class="navbar-toggler-icon"></span>
